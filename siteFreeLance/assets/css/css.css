@@ -1,0 +1,588 @@
+.namehome {
+	position: absolute;
+	width: 147px;
+	height: 53px;
+	left: 50px;
+	top: 41px;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 30px;
+	line-height: 44px;
+	
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+	text-decoration: none;
+}
+
+
+
+.nameAboutMe {
+	position: absolute;
+	width: 200px;
+	height: 44px;
+	left: 252px;
+	top: 41px;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 30px;
+	line-height: 44px;
+	/* identical to box height */
+	
+	
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+	text-decoration: none;
+}
+
+
+
+.nameMySkills {
+	position: absolute;
+	width: 200px;
+	height: 44px;
+	left: 543px;
+	top: 41px;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 30px;
+	line-height: 44px;
+	/* identical to box height */
+	
+	
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+	text-decoration: none;
+}
+
+
+
+.namePortfolio {
+	position: absolute;
+	width: 155px;
+	height: 44px;
+	left: 840px;
+	top: 41px;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 30px;
+	line-height: 44px;
+	/* identical to box height */
+	
+	
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+	text-decoration: none;
+}
+
+
+
+.nameContacts {
+	position: absolute;
+	width: 165px;
+	height: 39px;
+	left: 1115px;
+	top: 41px;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 30px;
+	line-height: 44px;
+	
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+	text-decoration: none;
+}
+
+
+
+/* Rectangle 1 */
+
+.Rectangle {
+	position: absolute;
+	width: 1259px;
+	height: 5px;
+	left: 50px;
+	top: 111px;
+
+	background: #E24A4A;
+}
+
+
+
+.RectangleTwo {
+	position: absolute;
+	width: 1259px;
+	height: 5px;
+	left: 50px;
+    top: 829px;
+    
+    background: #E24A4A;
+}
+
+
+
+.RectangleThoo {
+	position: absolute;
+	width: 1259px;
+	height: 5px;
+	left: 50px;
+	top: 1359px;
+	
+	background: #E24A4A;
+}
+
+
+
+.RectangleThee {
+	position: absolute;
+	width: 1259px;
+	height: 350px;
+	left: 50px;
+	top: 919px;
+	
+	background: rgba(226, 74, 74, 0.6);
+}
+
+
+
+.RectanglefFive {
+	position: absolute;
+	width: 1259px;
+	height: 489px;
+	left: 50px;
+	top: 1481px;
+
+	background: rgba(226, 74, 74, 0.6);
+}
+
+
+
+.RectangleSix {
+	position: absolute;
+	width: 1259px;
+	height: 5px;
+	left: 50px;
+	top: 2080px;
+	
+	background: #E24A4A;
+}
+
+
+
+.RectangleSeven {
+	position: absolute;
+	width: 1258px;
+	height: 490px;
+	left: 50px;
+	top: 2205px;
+
+	background: rgba(226, 74, 74, 0.6);
+}
+
+
+
+.Rectangleeight {
+	position: absolute;
+	width: 201px;
+	height: 50px;
+	left: 580px;
+	top: 2460px;
+
+	background: #000000;
+	color: rgb(255, 255, 255);
+	border-radius: 20px;
+	font-size: 30px;
+	font-weight: 700;
+	text-decoration: none;
+	text-align: center;
+	transition: opacity .2s linear;
+	font-family: 'Anton', sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+
+.Rectangleeight:hover {
+	background-color: rgb(255, 255, 255);
+	color: rgb(0, 0, 0);
+	opacity: 1;
+	font-family: 'Anton', sans-serif;
+
+}
+
+
+
+.nameone {
+	position: absolute;
+	width: 98px;
+	height: 24px;
+	left: 50px;
+	top: 184px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 20px;
+	line-height: 24px;
+
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+}
+
+
+
+.nametwo {
+	position: absolute;
+	width: 95px;
+	height: 24px;
+	left: 50px;
+	top: 208px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 20px;
+	line-height: 24px;
+
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+}
+
+
+
+.namethee {
+	position: absolute;
+	width: 300px;
+	height: 105px;
+	left: 562px;
+	top: 165px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+}
+
+
+
+.intro {
+	position: absolute;
+	width: 1260px;
+	height: 427px;
+	left: 50px;
+	top: 301px;
+	
+	background: url("../img/FootBall.jpg");
+}
+
+
+
+.introtwo {
+	position: absolute;
+	width: 74px;
+	height: 65px;
+	left: 299px;
+	top: 1750px;
+
+	background: url("../img/figma.png");
+}
+
+
+
+.introthee {
+	position: absolute;
+	width: 79px;
+	height: 65px;
+	left: 621px;
+	top: 1750px;
+
+	background: url("../img/sublimetext.png");
+}
+
+
+
+.introthoo {
+	position: absolute;
+	width: 64px;
+	height: 65px;
+	left: 958px;
+	top: 1750px;
+
+	background: url("../img/VegasPro.png");
+}
+
+
+
+.introfive {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 170px;
+	top: 2630px;
+	
+	background: url("../img/Telegram.png");
+}
+
+
+
+
+.textme {
+	position: absolute;
+	width: 200px;
+	height: 44px;
+	left: 590px;
+	top: 939px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 36px;
+	line-height: 44px;
+	/* identical to box height */
+
+	text-align: center;
+
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+}
+
+
+
+.textmetwo {
+	position: absolute;
+	width: 400px;
+	height: 29px;
+	left: 500px;
+	top: 984px;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 24px;
+	line-height: 29px;
+	/* identical to box height */
+	
+	text-align: center;
+	
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+}
+
+
+
+.textmethee {
+	position: absolute;
+	width: 923px;
+	height: 92px;
+	left: 200px;
+	top: 1066px;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 24px;
+	line-height: 29px;
+	text-align: center;
+	
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+}
+
+
+
+.textmethoo {
+	position: absolute;
+	width: 61px;
+	height: 24px;
+	left: 306px;
+	top: 1830px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+}
+
+
+
+.textmefive {
+	position: absolute;
+	width: 77px;
+	height: 50px;
+	left: 623px;
+	top: 1830px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+}
+
+
+
+.textmesix {
+	
+	position: absolute;
+	width: 112px;
+	height: 56px;
+	left: 934px;
+	top: 1830px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+}
+
+
+
+.textmeseven {
+	position: absolute;
+	width: 165px;
+	height: 44px;
+	left: 580px;
+	top: 2250px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 36px;
+	line-height: 44px;
+	/* identical to box height */
+
+	text-align: center;
+
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+}
+
+
+
+.textmeeight {
+	position: absolute;
+	width: 375px;
+	height: 75px;
+	left: 483px;
+	top: 2321px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+}
+
+
+
+.textskills {
+	position: absolute;
+	width: 97px;
+	height: 44px;
+	left: 610px;
+	top: 1529px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 36px;
+	line-height: 44px;
+	/* identical to box height */
+
+	text-align: center;
+
+	color: #000000;
+	font-family: 'Anton', sans-serif;
+}
+
+
+
+.textskillstwo {
+	position: absolute;
+	width: 400px;
+	height: 29px;
+	left: 465px;
+	top: 1598px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 24px;
+	line-height: 29px;
+	/* identical to box height */
+
+	text-align: center;
+
+	color: #000000;
+	 font-family: 'Anton', sans-serif;
+}
+
+
+
+.contactIcon {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 500px;
+	top: 2630px;
+
+	background: url("../img/Instagram.png");
+}
+
+
+
+.contactIconTwo {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 820px;
+	top: 2630px;
+
+	background: url("../img/Facebook.png");
+}
+
+
+
+.contactIconThee {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 1140px;
+	top: 2630px;
+
+	background: url("../img/Vaiber.png");
+}
